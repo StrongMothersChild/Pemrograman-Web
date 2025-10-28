@@ -1,0 +1,5 @@
+const tableMahasiswa = {
+    "Budi Santoso": {
+        
+    }
+};
